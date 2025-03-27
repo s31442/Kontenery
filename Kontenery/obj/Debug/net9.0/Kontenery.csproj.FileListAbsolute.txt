@@ -12,3 +12,4 @@ C:\Users\ochro\Desktop\Kontenery\Kontenery\obj\Debug\net9.0\refint\Kontenery.dll
 C:\Users\ochro\Desktop\Kontenery\Kontenery\obj\Debug\net9.0\Kontenery.pdb
 C:\Users\ochro\Desktop\Kontenery\Kontenery\obj\Debug\net9.0\Kontenery.genruntimeconfig.cache
 C:\Users\ochro\Desktop\Kontenery\Kontenery\obj\Debug\net9.0\ref\Kontenery.dll
+C:\Users\ochro\Desktop\Kontenery\Kontenery\obj\Debug\net9.0\Kontenery.sourcelink.json

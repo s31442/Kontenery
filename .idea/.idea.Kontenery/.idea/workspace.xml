@@ -8,9 +8,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0278c49f-d79a-49a4-a982-b95762a33bc6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Kontenery/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kontenery/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontenery/bin/Debug/net9.0/Kontenery.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kontenery/bin/Debug/net9.0/Kontenery.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontenery/bin/Debug/net9.0/Kontenery.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Kontenery/bin/Debug/net9.0/Kontenery.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontenery/bin/Debug/net9.0/Kontenery.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Kontenery/bin/Debug/net9.0/Kontenery.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/Kontenery.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/Kontenery.AssemblyInfo.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/Kontenery.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/Kontenery.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/Kontenery.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/Kontenery.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/Kontenery.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/Kontenery.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/Kontenery.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/Kontenery.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/ref/Kontenery.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/ref/Kontenery.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/refint/Kontenery.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Kontenery/obj/Debug/net9.0/refint/Kontenery.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,6 +101,7 @@
       <updated>1743003901183</updated>
       <workItem from="1743003902905" duration="2996000" />
       <workItem from="1743065185470" duration="25000" />
+      <workItem from="1743086483171" duration="980000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -102,7 +111,23 @@
       <option name="project" value="LOCAL" />
       <updated>1743004271745</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="c sdzxzxc xc">
+      <option name="closed" value="true" />
+      <created>1743086528681</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1743086528681</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commit">
+      <option name="closed" value="true" />
+      <created>1743086609390</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1743086609390</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +138,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="c sdzxzxc xc" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
